@@ -1,0 +1,28 @@
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/menu driven app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/menu driven app.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/menu driven app.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/menu driven app.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/bin/Debug/net8.0/menu driven app
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/bin/Debug/net8.0/menu driven app.deps.json
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/bin/Debug/net8.0/menu driven app.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/bin/Debug/net8.0/menu driven app.dll
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/bin/Debug/net8.0/menu driven app.pdb
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/menu driven app.dll
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/refint/menu driven app.dll
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/menu driven app.pdb
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/menu driven app.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/exam prac/menu driven app/obj/Debug/net8.0/ref/menu driven app.dll
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/bin/Debug/net8.0/menu driven app
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/bin/Debug/net8.0/menu driven app.deps.json
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/bin/Debug/net8.0/menu driven app.runtimeconfig.json
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/bin/Debug/net8.0/menu driven app.dll
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/bin/Debug/net8.0/menu driven app.pdb
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/menu driven app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/menu driven app.AssemblyInfoInputs.cache
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/menu driven app.AssemblyInfo.cs
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/menu driven app.csproj.CoreCompileInputs.cache
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/menu driven app.dll
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/refint/menu driven app.dll
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/menu driven app.pdb
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/menu driven app.genruntimeconfig.cache
+/Users/kaylimfortuin/Desktop/exam prac/Temperature Conversions/obj/Debug/net8.0/ref/menu driven app.dll
