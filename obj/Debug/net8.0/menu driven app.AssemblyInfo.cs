@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("menu driven app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+758ddde7e9a5752298dcdd190b0c4929935d40e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("menu driven app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("menu driven app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
